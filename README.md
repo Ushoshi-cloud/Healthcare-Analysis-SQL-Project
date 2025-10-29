@@ -38,6 +38,7 @@ JOIN patients p ON v.patient_id = p.patient_id
 WHERE t.total_tests > 1
 ORDER BY t.total_tests DESC;
 
+
 Insights
 
 Identified patients with multiple lab tests per visit.
