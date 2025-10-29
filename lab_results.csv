@@ -1,0 +1,13 @@
+result_id,visit_id,test_name,result_value,normal_low,normal_high,unit
+1001,101,CBC_WBC,7.4,4,11,x10^3/uL
+1002,101,CBC_Hb,13.2,12,16,g/dL
+1003,102,ECG_Result,Abnormal,,,
+1004,103,Allergy_IgE,180,0,100,IU/mL
+1005,104,HbA1c,8.2,4,5.6,%
+1006,105,XRay_Result,Fracture_Present,,,
+1007,106,Lipid_Total,210,0,199,mg/dL
+1008,109,Troponin,0.05,0,0.04,ng/mL
+1009,111,BP_Systolic,150,90,120,mmHg
+1010,112,ECG_Result,Normal,,,
+1011,110,CBC_Hb,11.5,12,16,g/dL
+1012,108,HPV_Test,Negative,,,

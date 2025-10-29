@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,gender,dob,city
+1,Ushoshi,Bose,F,1999-12-06,Indore
+2,Arjun,Sharma,M,1985-03-12,Mumbai
+3,Maya,Patel,F,1978-07-20,Ahmedabad
+4,Sunil,Verma,M,1990-10-02,Bengaluru
+5,Rina,Das,F,1965-01-18,Kolkata
+6,Vikram,Rao,M,2001-06-30,Hyderabad
+7,Leela,Nair,F,1995-05-05,Chennai
+8,Samir,Gupta,M,1988-09-14,Pune
+9,Priya,Iyer,F,1992-04-21,Delhi
+10,Arun,Kumar,M,1975-11-28,Jaipur
